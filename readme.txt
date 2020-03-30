@@ -7,3 +7,4 @@ Creating a new branch is quick.
 add
 test conflict
 add merge
+add merge
