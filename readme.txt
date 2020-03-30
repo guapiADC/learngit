@@ -6,3 +6,4 @@ Creating a new branch is quick.
 add
 test conflit
 add merge
+add merge
